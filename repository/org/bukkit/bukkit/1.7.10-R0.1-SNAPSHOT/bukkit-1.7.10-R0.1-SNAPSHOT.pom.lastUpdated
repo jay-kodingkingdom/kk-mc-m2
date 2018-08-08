@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 07 03:33:45 HKT 2018
+http\://repo.mcstats.org/content/repositories/public/.lastUpdated=1525634882297
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525634805471
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525634805013
+http\://repo.onarandombox.com/content/groups/public/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact org.bukkit\:bukkit\:pom\:1.7.10-R0.1-SNAPSHOT from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org
+http\://maven.sk89q.com/repo/.lastUpdated=1525634805924
+http\://nexus.theyeticave.net/content/repositories/pub_releases/.error=Could not transfer artifact org.bukkit\:bukkit\:pom\:1.7.10-R0.1-SNAPSHOT from/to vault-repo (http\://nexus.theyeticave.net/content/repositories/pub_releases)\: nexus.theyeticave.net
+@default-vault-repo-http\://nexus.theyeticave.net/content/repositories/pub_releases/.lastUpdated=1525635225742
+http\://maven.sk89q.com/repo/.error=
+http\://repo.mcstats.org/content/repositories/public/.error=

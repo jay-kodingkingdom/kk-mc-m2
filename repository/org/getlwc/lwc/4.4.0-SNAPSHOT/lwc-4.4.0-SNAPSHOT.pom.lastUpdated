@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 07 03:34:12 HKT 2018
+http\://repo.mcstats.org/content/repositories/public/.lastUpdated=1525635008078
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525634978073
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525634977089
+http\://repo.onarandombox.com/content/groups/public/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact org.getlwc\:lwc\:pom\:4.4.0-SNAPSHOT from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org
+http\://maven.sk89q.com/repo/.lastUpdated=1525634978644
+http\://nexus.theyeticave.net/content/repositories/pub_releases/.error=Could not transfer artifact org.getlwc\:lwc\:pom\:4.4.0-SNAPSHOT from/to vault-repo (http\://nexus.theyeticave.net/content/repositories/pub_releases)\: nexus.theyeticave.net
+@default-vault-repo-http\://nexus.theyeticave.net/content/repositories/pub_releases/.lastUpdated=1525635252890
+http\://maven.sk89q.com/repo/.error=
+http\://repo.mcstats.org/content/repositories/public/.error=

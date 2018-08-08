@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 07 03:33:37 HKT 2018
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525625263749
+https\://repo.maven.apache.org/maven2/.lastUpdated=1525635217883
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525625263138
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact com.google.guava\:guava\:pom\:10.0.1 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org

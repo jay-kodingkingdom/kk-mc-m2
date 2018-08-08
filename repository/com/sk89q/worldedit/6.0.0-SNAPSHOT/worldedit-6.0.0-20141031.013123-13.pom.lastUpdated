@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 07 01:25:57 HKT 2018
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525627556326
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525627555675
+http\://repo.onarandombox.com/content/groups/public/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact com.sk89q\:worldedit\:pom\:6.0.0-20141031.013123-13 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org
+http\://maven.sk89q.com/repo/.lastUpdated=1525627557356

@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun May 13 11:55:21 HKT 2018
+http\://repo.mcstats.org/content/repositories/public/.lastUpdated=1525635038074
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact LetsCode\:CrafterCoordinator\:pom\:0.0.1-SNAPSHOT from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org
+https\://hub.spigotmc.org/nexus/content/groups/public/.error=
+http\://repo.mcstats.org/content/repositories/public/.error=
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525635032386
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525635032089
+http\://repo.onarandombox.com/content/groups/public/.error=
+http\://maven.sk89q.com/repo/.lastUpdated=1525635033097
+http\://nexus.theyeticave.net/content/repositories/pub_releases/.error=Could not transfer artifact LetsCode\:CrafterCoordinator\:pom\:0.0.1-SNAPSHOT from/to vault-repo (http\://nexus.theyeticave.net/content/repositories/pub_releases)\: nexus.theyeticave.net
+https\://hub.spigotmc.org/nexus/content/groups/public/.lastUpdated=1526183721119
+@default-vault-repo-http\://nexus.theyeticave.net/content/repositories/pub_releases/.lastUpdated=1525635328894
+http\://maven.sk89q.com/repo/.error=

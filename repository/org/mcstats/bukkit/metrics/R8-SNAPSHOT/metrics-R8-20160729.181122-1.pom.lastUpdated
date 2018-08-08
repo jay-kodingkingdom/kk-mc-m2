@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 07 00:49:10 HKT 2018
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525625349636
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525625349140
+http\://repo.onarandombox.com/content/groups/public/.error=
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact org.mcstats.bukkit\:metrics\:pom\:R8-20160729.181122-1 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org
+http\://maven.sk89q.com/repo/.lastUpdated=1525625350563

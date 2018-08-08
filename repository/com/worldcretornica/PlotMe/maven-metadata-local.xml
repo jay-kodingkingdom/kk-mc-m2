@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.worldcretornica</groupId>
+  <artifactId>PlotMe</artifactId>
+  <versioning>
+    <versions>
+      <version>0.13g-SNAPSHOT</version>
+      <version>0.13g-ploKKt-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180629104218</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 07 03:33:36 HKT 2018
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525625263133
+https\://repo.maven.apache.org/maven2/.lastUpdated=1525635216882
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525625262419
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact rhino\:js\:pom\:1.7R2 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org

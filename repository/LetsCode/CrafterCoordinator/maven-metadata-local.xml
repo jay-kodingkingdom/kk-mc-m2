@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>LetsCode</groupId>
+  <artifactId>CrafterCoordinator</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+      <version>2018.5.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180629104205</lastUpdated>
+  </versioning>
+</metadata>

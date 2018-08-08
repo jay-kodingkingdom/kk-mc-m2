@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 07 03:33:34 HKT 2018
+http\://repo.onarandombox.com/content/groups/public/.lastUpdated=1525625261186
+https\://repo.maven.apache.org/maven2/.lastUpdated=1525635214872
+@default-bukkit-repo-http\://repo.bukkit.org/content/groups/public/.lastUpdated=1525625260662
+http\://repo.bukkit.org/content/groups/public/.error=Could not transfer artifact de.schlichtherle\:truezip\:pom\:6.8.3 from/to bukkit-repo (http\://repo.bukkit.org/content/groups/public)\: repo.bukkit.org

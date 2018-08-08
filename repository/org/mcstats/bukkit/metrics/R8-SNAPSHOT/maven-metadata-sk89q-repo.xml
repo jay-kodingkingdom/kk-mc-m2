@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mcstats.bukkit</groupId>
+  <artifactId>metrics</artifactId>
+  <version>R8-20160729.181122-1</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160729.181122</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160731052141</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>R8-20160729.181122-1</value>
+        <updated>20160729181122</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>R8-20160729.181122-1</value>
+        <updated>20160729181122</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
